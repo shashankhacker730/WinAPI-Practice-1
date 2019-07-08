@@ -1,0 +1,2 @@
+cd /d "C:\Users\niimum114\source\repos\SampleKMDF\SampleKMDF" &msbuild "SampleKMDF.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\niimum114\source\repos\SampleKMDF" 
+exit %errorlevel% 

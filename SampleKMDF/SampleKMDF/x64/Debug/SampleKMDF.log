@@ -1,0 +1,19 @@
+﻿  Building 'SampleKMDF' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\SampleKMDF.inf
+  Stamping [Version] section with DriverVer=07/04/2019,16.22.25.506
+  SampleKMDF.vcxproj -> C:\Users\niimum114\source\repos\SampleKMDF\x64\Debug\SampleKMDF.sys
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\niimum114\source\repos\SampleKMDF\x64\Debug\SampleKMDF\samplekmdf.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\niimum114\source\repos\SampleKMDF\x64\Debug\SampleKMDF\samplekmdf.cat
+  

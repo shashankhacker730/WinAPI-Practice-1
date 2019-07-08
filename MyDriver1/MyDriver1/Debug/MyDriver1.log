@@ -1,0 +1,6 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  MyDriver1.cpp
+BufferOverflowFastFailK.lib(gs_driverentry.obj) : error LNK2019: unresolved external symbol _DriverEntry@8 referenced in function _GsDriverEntry@8
+    Hint on symbols that are defined and could potentially match:
+      "long __stdcall DriverEntry(struct _DRIVER_OBJECT *,struct _UNICODE_STRING *)" (?DriverEntry@@YGJPAU_DRIVER_OBJECT@@PAU_UNICODE_STRING@@@Z)
+C:\Users\niimum114\source\repos\MyDriver1\Debug\MyDriver1.sys : fatal error LNK1120: 1 unresolved externals
